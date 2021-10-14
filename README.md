@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jyotirmaypaliwal
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning neural networks and ways to implement them.
-- 💞️ I’m looking to collaborate on machine learning projects
+- 👋 Hi, I’m *Jyotirmay Paliwal*
+- 👀 I’m interested in Deep Learning and making computers more smarter by themselves without the need for us to write explicit code. 
+- 🌱 I’m currenly pursuing Bachelors in Computer Sciences and learning Pytorch by doing some projects in the areas I am interested in.
+- 💞️ I’m looking for research opportunities in the field of Deep Learning. 
 - 📫 How to reach me - jyotirmaypaliwal@gmail.com
 
 <!---
